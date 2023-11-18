@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Zaishuo Xia 
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{}
+Fourth-year Undergraduate Student\n Renmin University of China\n
+Email: xiazaishuo@gmail.com\n
+~~~
+
+== About me
+I am now a Fourth-year Undergraduate Student majoring in Statistics at Renmin University of China.
+
+== Research
+My research interests include 
+- Trustworthy AI
+- Representation Learning
+- Machine Learning
+
+== Recent Works
+- [https://openreview.net/forum?id=IGzaH538fz GraphGuard: Provably Robust Graph Classification against Adversarial Attacks]\n
+*Zaishuo Xia* \*, Han Yang\*, Binghui Wang and Jinyuan Jia.\n Submitted to ICLR, 2024.
+- [https://github.com/998822/998822.github.io/blob/master/archives/Paper_Weakly_Supervised_Deep_Learning_for_Fine-grained_Socioeconomic_Development.pdf Weakly Supervised Deep Learning for Fine-grained Socioeconomic Development Index Inference Based on Satellite Imagery]\n
+Zaishuo Xia*, Yanbing Bai, Bolin Zhang, Shubo Zeng, Zhe Liu, Ziyue Zhang, and Xuxin Mao.\n 
+Submitted to journal GeoInformatica, 2023.
+- [https://link.springer.com/chapter/10.1007/978-3-031-12423-5_29 Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets]\n
+*Zaishuo Xia*, Zelin Li, Yanbing Bai, Jinze Yu, and Bruno Adriano. \n 
+In International Conference on Database and Expert Systems Applications (DEXA), 2022. 
+
+\n
+[cv.pdf A brief cv].
